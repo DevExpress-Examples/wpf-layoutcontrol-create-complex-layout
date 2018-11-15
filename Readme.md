@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/LayoutControl_CompoundLayout/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/LayoutControl_CompoundLayout/MainWindow.xaml))
+<!-- default file list end -->
 # How to Build a compound layout via LayoutControl
 
 
