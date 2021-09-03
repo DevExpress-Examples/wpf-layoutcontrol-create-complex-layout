@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LayoutControl_CompoundLayout", "LayoutControl_CompoundLayout\LayoutControl_CompoundLayout.csproj", "{4F48244B-E054-4FA1-A3BD-D02224A9FA02}"
+# Visual Studio 16
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LayoutControl_CompoundLayout", "LayoutControl_CompoundLayout\LayoutControl_CompoundLayout.Net5.csproj", "{4F48244B-E054-4FA1-A3BD-D02224A9FA02}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
