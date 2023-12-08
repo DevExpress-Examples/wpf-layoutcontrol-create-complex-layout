@@ -3,16 +3,20 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E2256)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-<!-- default file list -->
-*Files to look at*:
+
+# WPF Layout Control - Create Complex Form Layout
+
+This example uses the [WPF Layout Control](https://docs.devexpress.com/WPF/8147/controls-and-libraries/layout-management/tile-and-layout/layout-and-data-layout-controls/layout-control) to create the responsive data form (with groups and tab containers) eliminating the aggravation associated with pixel-based form design and manual UI control alignment.
+
+![WPF Layout Control - Create Complex Form Layout](https://raw.githubusercontent.com/DevExpress-Examples/wpf-layoutcontrol-create-complex-layout/22.2.2%2B/i/wpf-layout-control-create-complex-form-devexpress.png)
+
+
+## Files to Review
 
 * [MainWindow.xaml](./CS/LayoutControl_CompoundLayout/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/LayoutControl_CompoundLayout/MainWindow.xaml))
-<!-- default file list end -->
-# How to Build a compound layout via LayoutControl
 
 
-<p>This example demonstrates how to build a compound layout using the LayoutControl.</p>
+## Documentation
 
-<br/>
-
-
+* [Create Layout (Step-by-step Tutorial)](https://docs.devexpress.com/WPF/17677/controls-and-libraries/data-editors/getting-started/how-to-create-a-registration-form/lesson-1-create-layout)
+* [Layout Items and Groups](https://docs.devexpress.com/WPF/8150/controls-and-libraries/layout-management/tile-and-layout/layout-and-data-layout-controls/layout-items-and-groups)
